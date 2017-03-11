@@ -1,0 +1,1085 @@
+body{
+	margin: 0;
+	background-color: #f8f8f8;
+}
+header{
+	width: auto;
+	height: 70px;
+	background-color: #ffffff;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+p{
+	margin: 0;
+}
+.crelia-logo{
+	float: left;
+	position: absolute;
+	margin: 25px 0px 25px 50.2px;
+}
+.arrow-down{
+	position: absolute;
+	margin: 33px 0px 31px 832px;
+}
+.bell-small{
+	position: absolute;
+	margin: 26px 0px 24px 1035px;
+}
+.arrow-down2{
+	position: absolute;
+	margin: 34px 0px 30px 1218px;
+}
+
+.special-element{
+	background-color: #f8f8f8;
+	width: 79px;
+	height: 70px;
+	position: absolute;
+	margin-left: 263px;
+}
+
+.special-element a{
+	text-decoration: none;
+	line-height: 1.43;
+	font-family: WorkSans;
+	font-family: 14px;
+	color: #111111;
+	position: absolute;
+	margin: 25px 20px 25px 20px;
+}
+a{
+	text-decoration: none;
+}
+.Organizations{
+	position: absolute;
+	margin: 25px 0px 25px 361px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;
+}
+.Loans{
+	position: absolute;
+	margin: 25px 0px 25px 497px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;
+}
+.Offers{
+	position: absolute;
+	margin: 25px 0px 25px 578px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;	
+}
+.Requests{
+	position: absolute;
+	margin: 25px 0px 25px 661px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;	
+}
+.Other{
+	position: absolute;
+	margin: 25px 0px 25px 788px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;	
+	font-size: 14px;
+}
+.Dustin-Burns{
+	position: absolute;
+	margin: 26px 0px 24px 1124px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;
+}
+.shar{
+	width: 18px;
+	height: 15px;
+	border-radius: 8px;
+	background-color: #111111;
+	position: absolute;
+	margin: 28px 0px 27px 730px;
+}
+.shar p{
+	position: absolute;
+	margin: -3px 5px -2px 6px;
+	color: #ffffff;
+	line-height: 1.67;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: WorkSans;
+}
+.shar2{
+	width: 18px;
+	height: 15px;
+	border-radius: 8px;
+	background-color: #111111;
+	position: absolute;
+	margin: 28px 0px 27px 1056px;
+}
+.shar2 p{
+	position: absolute;
+	margin: -3px 5px -2px 6px;
+	color: #ffffff;
+	line-height: 1.67;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: WorkSans;
+}
+
+.Users2{
+	position: absolute;
+	margin: 55px 0px 0px 50px;
+	font-family: WorkSans;
+	font-size: 30px;
+	line-height: 1.17;
+	letter-spacing: -0.5px;
+	color: #333333;
+}
+
+.special-block{
+	width: 57px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #f0f0f0;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	position: absolute;
+	margin: 50px 0px 0px 170px;
+}
+.special-block a{
+	font-family: WorkSans;
+	font-size: 14px;
+	line-height: 1.43;
+	color: #111111;
+	position: absolute;
+	margin: 10px 19px 10px 20px;
+}
+.Basic{
+	position: absolute;
+	margin: 60px 0px 0px 257px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;
+}
+.Blocked{
+	position: absolute;
+	margin: 60px 0px 0px 324px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;
+}
+.Deleted{
+	position: absolute;
+	margin: 60px 0px 0px 409px;
+	line-height: 1.43;
+	color: #999999;
+	font-family: WorkSans;
+	font-size: 14px;
+}
+.search{
+	width: 280px;
+	height: 40px;
+	position: absolute;
+	margin: 50px 0px 0px 812px;
+	border-radius: 3px;
+	background-color: #ffffff;
+	border: solid 1px #dcdcdc;
+}
+.search img{
+	float: left;
+	position: absolute;
+	margin: 16px 0px 16px 10px;
+}
+.search p{
+	position: absolute;
+	margin: 12px 0px 6px 25px;
+	font-family: WorkSans;
+  	font-size: 14px;
+  	line-height: 1.43;
+  	color: #999999;
+}
+.knopka{
+	position: absolute;
+	margin: 50px 0px 0px 1122px;
+	width: 108px;
+	height: 40px;
+	border-radius: 3px;
+	background-color: #5c95e6;
+	box-shadow: 0 4px 6px 0 rgba(217, 217, 217, 0.75);
+}
+.knopka a{
+	position: absolute;
+	margin: 11px 0px 0px 19px;
+	font-family: WorkSans;
+  	font-size: 14px;
+  	font-weight: bold;
+  	line-height: 1.43;
+  	color: #ffffff;
+}
+
+.block1{
+	position: absolute;
+	margin: 120px 0px 50px 50px;
+	width: 1180px;
+	height: 80px;
+	border-radius: 2px;
+	background-color: #ffffff;
+ 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+.block1 .special_p{
+	font-family: WorkSans;
+ 	font-size: 12px;
+ 	line-height: 1.67;
+ 	letter-spacing: 1px;
+  	color: #111111;
+  	position: absolute;
+  	margin: 16px 0px 44px 30px;
+  	letter-spacing: 1px;
+}
+.block1 .filter-active{
+	position: absolute;
+	margin: 21px 0px 54px 84px;
+}
+.block1 .name{
+	font-family: WorkSans;
+	font-size: 12px;
+	line-height: 1.67;
+	letter-spacing: 1px;
+	color: #999999;
+	position: absolute;
+	margin: 16px 0px 44px 185px;
+}
+.block1 .filter-inactive1{
+	position: absolute;
+	margin: 21px 0px 0px 256px;
+}
+.block1 .contacts{
+	font-family: WorkSans;
+	font-size: 12px;
+	line-height: 1.67;
+	letter-spacing: 1px;
+	color: #999999;
+	position: absolute;
+	margin: 16px 0px 44px 378px;
+}
+.block1 .filter-inactive2{
+	position: absolute;
+	margin: 21px 0px 0px 454px;
+}
+.block1 .company{
+	font-family: WorkSans;
+	font-size: 12px;
+	line-height: 1.67;
+	letter-spacing: 1px;
+	color: #999999;
+	position: absolute;
+	margin: 16px 0px 44px 690px;
+}
+.block1 .filter-inactive3{
+	position: absolute;
+	margin: 21px 0px 0px 808px;
+}
+.block1 .user_type{
+	font-family: WorkSans;
+	font-size: 12px;
+	line-height: 1.67;
+	letter-spacing: 1px;
+	color: #999999;
+	position: absolute;
+	margin: 16px 0px 44px 940px;
+}
+.block1 .filter-inactive4{
+	position: absolute;
+	margin: 21px 0px 0px 1017px;
+}
+.block1 .actions{
+	font-family: WorkSans;
+	font-size: 12px;
+	line-height: 1.67;
+	letter-spacing: 1px;
+	color: #999999;
+	position: absolute;
+	margin: 16px 0px 44px 1098px;
+}
+.all{
+	width: 120px;
+	height: 20px;
+	border-radius: 3px;
+	background-color: #ffffff;
+	border: solid 1px #dcdcdc;
+	position: absolute;
+	margin: 41px 0px 19px 24px; 
+}
+.all p{
+	float: left;
+	position: absolute;
+	margin-left: 5px;
+	margin-top: 0.5px;
+	font-family: WorkSans;
+  	font-size: 12px;
+  	line-height: 1.67;
+  	letter-spacing: normal;
+  	color: #999999;
+}
+.all img{
+	float: right;
+	position: absolute;
+	margin-left: 103px;
+	margin-top: 7px; 
+}
+.filter1{
+	width: 140px;
+	height: 20px;
+	border-radius: 3px;
+	background-color: #ffffff;
+	border: solid 1px #dcdcdc;
+	position: absolute;
+	margin: 41px 0px 19px 179px;
+}
+.filter1 p{
+	font-family: WorkSans;
+  	font-size: 12px;
+ 	line-height: 1.67;
+  	letter-spacing: normal;
+ 	color: #999999;
+ 	float: left;
+ 	position: absolute;
+ 	margin-left: 5px;
+ 	margin-top: 0.5px;	
+}
+.filter2{
+	width: 260px;
+  	height: 20px;
+   	border-radius: 3px;
+  	background-color: #ffffff;
+  	border: solid 1px #dcdcdc;
+  	position: absolute;
+  	margin: 41px 0px 19px 373px; 
+}
+.filter2 p{
+	font-family: WorkSans;
+  	font-size: 12px;
+ 	line-height: 1.67;
+  	letter-spacing: normal;
+ 	color: #999999;
+ 	float: left;
+ 	position: absolute;
+ 	margin-left: 5px;
+ 	margin-top: 0.5px;	
+}
+.filter3{
+	width: 210px;
+  	height: 20px;
+   	border-radius: 3px;
+  	background-color: #ffffff;
+  	border: solid 1px #dcdcdc;
+  	position: absolute;
+  	margin: 41px 0px 19px 690px; 
+}
+.filter3 p{
+	font-family: WorkSans;
+  	font-size: 12px;
+ 	line-height: 1.67;
+  	letter-spacing: normal;
+ 	color: #999999;
+ 	float: left;
+ 	position: absolute;
+ 	margin-left: 5px;
+ 	margin-top: 0.5px;	
+}
+.filter4{
+	width: 120px;
+  	height: 20px;
+   	border-radius: 3px;
+  	background-color: #ffffff;
+  	border: solid 1px #dcdcdc;
+  	position: absolute;
+  	margin: 41px 0px 19px 935px; 
+}
+.filter4 p{
+	font-family: WorkSans;
+  	font-size: 12px;
+ 	line-height: 1.67;
+  	letter-spacing: normal;
+ 	color: #999999;
+ 	float: left;
+ 	position: absolute;
+ 	margin-left: 5px;
+ 	margin-top: 0.5px;	
+}
+.any_font{
+	width: 1180px;
+  	height: 1px;
+  	background-color: #eeeff3;
+}
+.block2{
+	position: absolute;
+	margin: 200px 0px 50px 50px;
+	width: 1180px;
+	height: 80px;
+	border-radius: 2px;
+	background-color: #ffffff;
+ 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+.block2 .round{
+	width: 12px;
+	height: 12px;
+	border-radius: 8px;
+	background-color: #36d9b0;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	position: absolute;
+	margin: 25px 30px;
+}
+.block2 .state1{
+	font-size: 14px;
+	font-family: WorkSans;
+	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #111111;
+ 	position: absolute;
+ 	margin: 20px 52px;	
+}
+.ID1{
+	width: 93px;
+	height: 40px;
+	position: absolute;
+	margin: 20px 0px 0px 185px;
+}
+.ID1 .surname1{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.ID1 .number1{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Contact_01{
+	width: 171px;
+	height: 40px;
+	position: absolute;
+	margin: 18px 0px 0px 378px;
+}
+.Contact_01 .email_01{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Contact_01 .phone_01{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Company_01{
+	width: 222px;
+	height: 40px;
+	position: absolute;
+	margin: 20px 0px 0px 690px;
+}
+.Company_01 .compan_01{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Company_01 .type_01{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Usertype_01{
+	width: 115px;
+	height: 36px;
+	position: absolute;
+	margin: 21px 0px 0px 940px;
+}
+.Usertype_01 .user_01{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.29;
+ 	letter-spacing: normal;
+ 	color: #111111;
+}
+.edit{
+	width: 50px;
+	height: 20px;
+	border-radius: 3px;
+	background-color: #ffffff;
+  	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.edit p{
+ 	font-family: WorkSans;
+  	font-size: 12px;
+  	line-height: 1.67;
+  	letter-spacing: 0.5px;
+  	color: #000000;
+  	text-align: center;
+}
+.block2 .edit{
+	position: absolute;
+	margin: 16px 0px 0px 1102px;
+}
+.to4ku{
+	width: 43px;
+	height: 20px;
+	border-radius: 3px;
+  	background-color: #ffffff;
+  	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.to4ku .to4{
+	width: 5px;
+	height: 5px;
+	border-radius: 7px;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	background-color: grey;
+	display: inline-block;
+	margin-left: 5px;
+}
+.block2 .to4ku{
+	position: absolute;
+	margin: 41px 0px 0px 1105px;
+}
+
+.block3{
+	position: absolute;
+	margin: 280px 0px 50px 50px;
+	width: 1180px;
+	height: 80px;
+	border-radius: 2px;
+	background-color: #ffffff;
+ 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+.block3 .round{
+	width: 12px;
+	height: 12px;
+	border-radius: 8px;
+	background-color: #36d9b0;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	position: absolute;
+	margin: 25px 30px;
+}
+.block3 .state1{
+	font-size: 14px;
+	font-family: WorkSans;
+	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #111111;
+ 	position: absolute;
+ 	margin: 20px 52px;	
+}
+.ID2{
+	width: 115px;
+	height: 40px;
+	position: absolute;
+	margin: 20px 0px 0px 185px;
+}
+.ID2 .surname2{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.ID2 .number2{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Contact_02{
+	width: 254px;
+	height: 40px;
+	position: absolute;
+	margin: 18px 0px 0px 378px;
+}
+.Contact_02 .email_02{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Contact_02 .phone_02{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Company_02{
+	width: 129px;
+	height: 40px;
+	position: absolute;
+	margin: 20px 0px 0px 690px;
+}
+.Company_02 .compan_02{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Company_02 .type_02{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Usertype_02{
+	width: 95px;
+	height: 18px;
+	position: absolute;
+	margin: 21px 0px 0px 940px;
+}
+.Usertype_02 .user_02{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.29;
+ 	letter-spacing: normal;
+ 	color: #111111;
+}
+.block3 .edit{
+	position: absolute;
+	margin: 16px 0px 0px 1102px;
+}
+.block3 .to4ku{
+	position: absolute;
+	margin: 41px 0px 0px 1105px;
+}
+
+.block4{
+	position: absolute;
+	margin: 360px 0px 50px 50px;
+	width: 1180px;
+	height: 80px;
+	border-radius: 2px;
+	background-color: #ffffff;
+ 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+.block4 .round1{
+	width: 12px;
+	height: 12px;
+	border-radius: 8px;
+	background-color: #ffc859;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	position: absolute;
+	margin: 25px 30px;
+}
+.block4 .state1{
+	font-size: 14px;
+	font-family: WorkSans;
+	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #111111;
+ 	position: absolute;
+ 	margin: 20px 52px;	
+}
+.ID3{
+	width: 98px;
+	height: 40px;
+	position: absolute;
+	margin: 20px 0px 0px 185px;
+}
+.ID3 .surname3{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.ID3 .number3{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Contact_03{
+	width: 177px;
+	height: 40px;
+	position: absolute;
+	margin: 18px 0px 0px 378px;
+}
+.Contact_03 .email_03{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Contact_03 .phone_03{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Company_03{
+	width: 104px;
+	height: 40px;
+	position: absolute;
+	margin: 20px 0px 0px 690px;
+}
+.Company_03 .compan_03{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Company_03 .type_03{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Usertype_03{
+	width: 123px;
+	height: 36px;
+	position: absolute;
+	margin: 21px 0px 0px 940px;
+}
+.Usertype_03 .user_03{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.29;
+ 	letter-spacing: normal;
+ 	color: #111111;
+}
+.block4 .edit{
+	position: absolute;
+	margin: 16px 0px 0px 1102px;
+}
+.block4 .to4ku{
+	position: absolute;
+	margin: 41px 0px 0px 1105px;
+}
+
+.block5{
+	position: absolute;
+	margin: 440px 0px 50px 50px;
+	width: 1180px;
+	height: 80px;
+	border-radius: 2px;
+	background-color: #ffffff;
+ 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+.block5 .round2{
+	width: 12px;
+	height: 12px;
+	border-radius: 8px;
+	background-color: #e6e6e6;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	position: absolute;
+	margin: 25px 30px;
+}
+.block5_sp{
+	width: 54px;
+	height: 40px;
+	position: absolute;
+	margin: 22px 0px 0px 52px;
+}
+.block5_sp .state2{
+	font-size: 14px;
+	font-family: WorkSans;
+	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #111111;
+}
+.block5_sp .state3{
+	font-size: 12px;
+	font-family: WorkSans;
+	line-height: 1.67;
+}
+.block5 .line{
+	width: 30px;
+ 	height: 1px;
+	background-color: #d8d8d8;
+	position: absolute;
+	margin: 60px 0px 19px 52px;
+}
+.ID4{
+	width: 115px;
+	height: 40px;
+	position: absolute;
+	margin: 21px 0px 0px 185px;
+}
+.ID4 .surname4{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.ID4 .number4{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Contact_04{
+	width: 192px;
+	height: 40px;
+	position: absolute;
+	margin: 21px 0px 0px 378px;
+}
+.Contact_04 .email_04{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Contact_04 .phone_04{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Company_04{
+	width: 145px;
+	height: 40px;
+	position: absolute;
+	margin: 21px 0px 0px 690px;
+}
+.Company_04 .compan_04{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Company_04 .type_04{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Usertype_04{
+	width: 123px;
+	height: 36px;
+	position: absolute;
+	margin: 22px 0px 0px 940px;
+}
+.Usertype_04 .user_04{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.29;
+ 	letter-spacing: normal;
+ 	color: #111111;
+}
+.block5 .edit{
+	position: absolute;
+	margin: 16px 0px 0px 1102px;
+}
+.block5 .to4ku{
+	position: absolute;
+	margin: 41px 0px 0px 1105px;
+}
+
+.block6{
+	position: absolute;
+	margin: 520px 0px 50px 50px;
+	width: 1180px;
+	height: 80px;
+	border-radius: 2px;
+	background-color: #ffffff;
+ 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+.block6 .round3{
+	width: 12px;
+	height: 12px;
+	border-radius: 8px;
+	background-color: #f38379;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	position: absolute;
+	margin: 25px 30px;
+}
+.block6 .state1{
+	font-size: 14px;
+	font-family: WorkSans;
+	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #111111;
+ 	position: absolute;
+ 	margin: 20px 52px;	
+}
+.ID5{
+	width: 80px;
+	height: 40px;
+	position: absolute;
+	margin: 21px 0px 0px 185px;
+}
+.ID5 .surname5{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.ID5 .number5{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Contact_05{
+	width: 158px;
+	height: 40px;
+	position: absolute;
+	margin: 21px 0px 0px 378px;
+}
+.Contact_05 .email_05{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Contact_05 .phone_05{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Company_05{
+	width: 129px;
+	height: 40px;
+	position: absolute;
+	margin: 21px 0px 0px 690px;
+}
+.Company_05 .compan_05{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.43;
+ 	letter-spacing: normal;
+ 	color: #333333;
+}
+.Company_05 .type_05{
+	font-size: 12px;
+  	line-height: 1.67;
+  	color: #999999;
+}
+.Usertype_05{
+	width: 111px;
+	height: 36px;
+	position: absolute;
+	margin: 21px 0px 0px 940px;
+}
+.Usertype_05 .user_05{
+	font-family: WorkSans;
+  	font-size: 14px;
+ 	line-height: 1.29;
+ 	letter-spacing: normal;
+ 	color: #111111;
+}
+.block6 .edit{
+	position: absolute;
+	margin: 16px 0px 0px 1102px;
+}
+.block6 .to4ku{
+	position: absolute;
+	margin: 41px 0px 0px 1105px;
+}
+
+.sloi_block{
+	width: 150px;
+	height: 110px;
+	border-radius: 3px;
+	background-color: #ffffff;
+	box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.25);
+	position: absolute;
+	margin: 422px 0px 0px 1035px;
+}
+.sloi_text1{
+	width: 110px;
+	height: 60px;
+	position: absolute;
+	padding: 10px 20px 40px 20px;
+}
+.sloi_text1 p{
+  	font-family: WorkSans;
+  	font-size: 14px;
+  	font-weight: normal;
+  	font-style: normal;
+  	font-stretch: normal;
+  	line-height: 2.14;
+  	letter-spacing: normal;
+  	color: #111111;
+}
+.sloi_text2{
+	width: 45px;
+	height: 30px;
+	position: absolute;
+	padding: 70px 85px 10px 20px;
+}
+.sloi_text2 p{
+	font-family: WorkSans;
+  	font-size: 14px;
+  	font-weight: normal;
+  	font-style: normal;
+  	font-stretch: normal;
+ 	line-height: 2.14;
+  	letter-spacing: normal;
+  	color: #ff7366;
+}
+
+footer{
+	height: 125px;
+	width: auto;
+}
+.arrow-left{
+	float: left;
+	position: absolute;
+	margin: 653px 0px 71px 47px;
+}
+.previous{
+	font-family: WorkSans;
+  	font-size: 14px;
+  	line-height: 1.43;
+  	letter-spacing: normal;
+  	color: #999999;
+  	position: absolute;
+  	margin: 650px 0px 65px 76px;
+}
+.arrow-right{
+	float: left;
+	position: absolute;
+	margin: 653px 0px 71px 1220px;
+}
+.next{
+	font-family: WorkSans;
+  	font-size: 14px;
+  	line-height: 1.43;
+  	letter-spacing: normal;
+  	color: #999999;
+  	position: absolute;
+  	margin: 650px 0px 65px 1172px;
+}
+.foot{
+	width: 302px;
+	height: 20px;
+	position: absolute;
+	color: #f8f8f8;
+	margin: 640px 489px 65px 489px;
+}
+.foot .hr{
+	list-style: none; 
+}
+ul.hr li{
+	display: inline-block;
+	font-family: WorkSans;
+  	font-size: 14px;
+  	line-height: 1.43;
+  	letter-spacing: normal;
+  	color: #999999;
+  	padding-left: 5px;
+  	padding-right: 5px;
+}
+.hr .five{
+	width: 28px;
+	height: 28px;
+	border-radius: 14px;
+	background-color: #f0f0f0;
+	box-shadow: inset 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+}
